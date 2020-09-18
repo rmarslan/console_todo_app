@@ -14,6 +14,11 @@
       "complete": false,
       "id": 3,
       "task": "Collect Tikets"
+    },
+    {
+      "complete": true,
+      "id": 4,
+      "task": "Buy shoes"
     }
   ]
 }
